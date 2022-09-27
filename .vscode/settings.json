@@ -80,4 +80,7 @@
     // "editor.defaultFormatter": "sissel.shopify-liquid",
     // "editor.formatOnSave": true
   },
+
+  // These options will prevent vscode from validating the Liquid code used in JSON files.
+  // Typically, you'd
 }
