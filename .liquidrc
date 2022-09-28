@@ -28,7 +28,8 @@
     "braceAllman": true,
     "arrayFormat": "indent",
     "objectIndent": "indent",
-    "objectSort": false
+    "objectSort": false,
+    "quoteConvert": "double"
   },
   "style": {
     "correct": false,
@@ -47,7 +48,6 @@
     "methodChain": 3,
     "caseSpace": true,
     "endComma": "never",
-    "quoteConvert": "single",
     "elseNewline": true,
     "functionNameSpace": true,
     "functionSpace": true,
